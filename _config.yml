@@ -59,21 +59,15 @@ plugins:
 
 author:
   name   : "Dorine Achieng"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "C:\Users\Administrator\Downloads\DorineA.jpg"
   bio    : "Data scientist. Awesome visualizer!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Adory01"
 
 footer:
   links:
